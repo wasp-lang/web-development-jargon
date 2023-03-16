@@ -2,6 +2,8 @@
 
 The world of web development has been evolving at an exponential rate for the last two decades. New terms and acronyms are being introduced daily. By providing a glossary, we hope to make learning web development easier.
 
+Examples are presented in JavaScript (ES2015). [Why JavaScript?](https://github.com/wasp-lang/web-development-jargon/wiki/Why-JavaScript%3F)
+
 __Table of Contents__
 <!-- RM(noparent,notop) -->
 * [API](#api)
